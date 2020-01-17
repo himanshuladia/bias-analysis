@@ -1,0 +1,8 @@
+color=['sanwali','saanwala','pink','pinky','red','laal','kaala','kaali','gori','gora','white','black','yellow','brown']
+softAttitude=['bholi','bhola','komalkomal','heeran','hirni','nadaan','beautiful','mastani','mastana','seedhi','seedha','sharmili','sharmeela','sohni','sohna','bhali','bhala']
+strongAttitude=['kukkad','bigda','bigdi','khatra','khauf','handa','jungli','badmash','gussa']
+cars=['car', 'gaddi','drive','lamborghini','jaguar','gaadi','motorcycle']
+clothes=['jeans','skirt','shirt','lehnga','chunni','ainak','ghagra','kurta','pajama','jacket','choodi','jhumka','chasma','chashma','kangan','top']
+food=['namkeen','mithi','tikhi','teekha','khatti','makkhan','sweet','nimbu','imli','mitthe','rasmalai','mirchi','mishti','naariyal']
+alcohol=['daaru','whisky','daru','pila','botal','peg','shots','drink','peeta']
+bodylooks=['choti','chota','cheeks','adayein','thumka','aankhen','aankhein','nazron','charming']
